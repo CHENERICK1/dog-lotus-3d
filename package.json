@@ -1,0 +1,19 @@
+{
+  "name": "dog-lotus-3d",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.185.3",
+    "typescript": "^5.9.3",
+    "vite": "^5.0.8"
+  }
+}
